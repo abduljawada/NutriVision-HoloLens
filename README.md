@@ -1,7 +1,5 @@
 # NutriVision-Hololens
 
-Phone version: https://github.com/abduljawada/NutriVision
-
 Forked from https://github.com/LocalJoost/YoloHolo/tree/crossplat-sentis
 
 ## Get the missing model
@@ -15,3 +13,10 @@ That shows [this batchfile](https://github.com/PINTO0309/PINTO_model_zoo/blob/ma
 That points to this [actual zipped tar file](https://s3.ap-northeast-2.wasabisys.com/pinto-model-zoo/307_YOLOv7/no-postprocess/resources.tar.gz) which contains the "yolov7-tiny_256x320.onnx" file. 
 
 Copy "yolov7-tiny_256x320.onnx" this into Assets\Application\Model folder before opening the project
+
+---
+
+Phone version: https://github.com/abduljawada/NutriVision
+
+## Architecture
+![Architecture](https://github.com/abduljawada/NutriVision/blob/main/nv.png)
